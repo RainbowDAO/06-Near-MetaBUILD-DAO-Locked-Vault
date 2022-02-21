@@ -63,7 +63,9 @@ https://testnet.aurora.dev/
 - Contract deployment address
 
 
+vault:0x0b0220C342536171495057c6bC7421e9dA2D6f02
 
+RBD:0x8408d82B9A7FB70F314A85ba444b0e0ECeCe482E
 
 
 Frontend docs:
